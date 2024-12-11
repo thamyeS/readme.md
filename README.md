@@ -1,6 +1,6 @@
 <div align="center" style="border-radius: 15px;">
-  <a href="https://www.instagram.com/kingzin.021/" title="My Instagram " target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-2/904451208901722142.png" style="width: auto; border-radius: 17px;">
+  <a href="https://www.instagram.com/_thamyezw_/" title="My Instagram " target="_blank">
+<!--     <img src="https://discord.c99.nl/widget/theme-2/904451208901722142.png" style="width: auto; border-radius: 17px;"> -->
   </a>
 </div>
 
