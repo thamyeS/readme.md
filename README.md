@@ -14,7 +14,7 @@ console.log(`Hello, visitor. Is my code secure... or is it just how it looks?`);
 
 <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; align-items: center;">
   <a href="https://www.instagram.com/_thamyezw_/" title="My Instagram " target="_blank">
-     <img src="https://img.freepik.com/psd-premium/logotipo-da-aplicacao-instagram_23-2151544086.jpg?semt=ais_hybrid" style="width: 400px; border-radius: 17px;">
+     <img src="https://img.freepik.com/psd-premium/logotipo-da-aplicacao-instagram_23-2151544086.jpg?semt=ais_hybrid" style="width: 100px; border-radius: 09px;">
   </a>
 <!--   <a href="https://discord.gg/PaePgHD6e9" title="Alpha Group Discord" target="_blank">
     <img src="https://share.creavite.co/6754a44801dbfe495dee440a.gif" style="width: 400px; border-radius: 17px;">
