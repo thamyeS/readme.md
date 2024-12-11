@@ -40,6 +40,6 @@ console.log(`Hello, visitor. Is my code secure... or is it just how it looks?`);
 
 <p align="center">
   <a href="https://emoji.gg/emoji/5349-hellokittybyebye">
-    <img src="https://i.pinimg.com/originals/31/85/e8/3185e8c8eda1d3bede141a5c2c7a9de7.gif" width="128px" height="128px" style="border-radius: 17px;" alt="HelloKittyByeBye">
+    <img src="https://i.pinimg.com/originals/31/85/e8/3185e8c8eda1d3bede141a5c2c7a9de7.gif" width="200px" height="128px" style="border-radius: 17px;" alt="Docinho Bye-Bye">
   </a>
 </p>
